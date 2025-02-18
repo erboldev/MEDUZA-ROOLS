@@ -104,12 +104,15 @@ button {
     font-weight: 550;
     color:red;
     font-size: 42px;
+    padding-bottom:5px;
+
 }
 .hero1text h4{
     font-weight: 530;
     color:red;
     font-size: 28px;
     width:600px;
+    padding-bottom:5px;
 }
 
 
