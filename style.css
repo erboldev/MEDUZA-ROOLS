@@ -61,6 +61,7 @@ button {
     background: transparent;
     transform: scale(1.1);
     color: red;
+    border:2px solid red;
 }
 .hero1all{
     display:flex;
@@ -85,6 +86,9 @@ button {
 }
 .heromenu button:hover{
     transform: scale(1.1);
+    background: transparent;
+    color: red;
+    border: 2px solid red;
 }
 
 #hero{

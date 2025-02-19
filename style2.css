@@ -29,12 +29,12 @@ button {
     justify-content:center ;
 }
 .mmm{
-    padding: 20px 145px;
+    padding: 30px 170px;
     background: red;
-    margin-top:100px;
+    margin-top:180px;
     border-radius: 5.5px;
     border: 2px solid red;
-    font-size: 40px ;
+    font-size: 60px ;
     color:white;
 }
 .mmm:hover{
@@ -43,11 +43,11 @@ button {
     transform: scale(1.1);
 }
 .nnn{
-    padding: 20px 145px;
+    padding: 30px 170px;
     background: red;
-    margin-top:50px;
+    margin-top:180px;
     border-radius: 5.5px;
-    font-size: 40px ;
+    font-size: 60px ;
     border: 2px solid red;
     color:white;
 }
@@ -57,12 +57,12 @@ button {
     transform: scale(1.1);
 }
 .sss{
-    padding: 20px 110px;
+    padding: 30px 120px;
     border: 2px solid red;
     background: red;
-    margin-top: 30px;
+    margin-top: 180px;
     border-radius: 5.5px;
-    font-size: 40px ;
+    font-size: 60px ;
     color:white;
 }
 .sss:hover{
@@ -76,8 +76,7 @@ button {
 }
 
 .closebtn{
-    margin-top:100px;
-    margin-bottom:50px;
+    margin:100px 200px;
     color: white;
     background: red;
     padding:18px 29px;
